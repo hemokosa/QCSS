@@ -1,0 +1,1 @@
+- [User Profile](user_profile.md) — Akihiro Kubota, sound artist, SuperCollider live coder, QCSS creator
